@@ -1,0 +1,11 @@
+C:\Users\Michu\source\repos\CAI_Prestamo.Forms\CAI_Prestamo.Datos\bin\Debug\CAI_Prestamo.Datos.dll
+C:\Users\Michu\source\repos\CAI_Prestamo.Forms\CAI_Prestamo.Datos\bin\Debug\CAI_Prestamo.Datos.pdb
+C:\Users\Michu\source\repos\CAI_Prestamo.Forms\CAI_Prestamo.Datos\bin\Debug\CAI_Prestamo.Entidades.dll
+C:\Users\Michu\source\repos\CAI_Prestamo.Forms\CAI_Prestamo.Datos\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Michu\source\repos\CAI_Prestamo.Forms\CAI_Prestamo.Datos\bin\Debug\CAI_Prestamo.Entidades.pdb
+C:\Users\Michu\source\repos\CAI_Prestamo.Forms\CAI_Prestamo.Datos\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Michu\source\repos\CAI_Prestamo.Forms\CAI_Prestamo.Datos\obj\Debug\CAI_Prestamo.Datos.csprojAssemblyReference.cache
+C:\Users\Michu\source\repos\CAI_Prestamo.Forms\CAI_Prestamo.Datos\obj\Debug\CAI_Prestamo.Datos.csproj.CoreCompileInputs.cache
+C:\Users\Michu\source\repos\CAI_Prestamo.Forms\CAI_Prestamo.Datos\obj\Debug\CAI_Prestamo.Datos.csproj.CopyComplete
+C:\Users\Michu\source\repos\CAI_Prestamo.Forms\CAI_Prestamo.Datos\obj\Debug\CAI_Prestamo.Datos.dll
+C:\Users\Michu\source\repos\CAI_Prestamo.Forms\CAI_Prestamo.Datos\obj\Debug\CAI_Prestamo.Datos.pdb
