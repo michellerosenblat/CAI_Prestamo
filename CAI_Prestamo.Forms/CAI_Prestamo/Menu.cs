@@ -54,10 +54,13 @@ namespace CAI_Prestamo
             {
                 foreach (string error in errores)
                 {
-                    mensaje += error + "\n";
+                    if (error != "")
+                    {
+                        mensaje += error + "\n";
+                    }
                 }
             }
-            if (mensaje != "")
+            if (mensaje == "")
             {
                 Prestamo simulacro = new Prestamo(ObtenerTipoPrestamoSeleccionado(), Convert.ToDouble(txtMonto.Text), Convert.ToInt32(txtMonto.Text));
                 txtCapital.Text = (simulacro.CuotaCapital()).ToString();
