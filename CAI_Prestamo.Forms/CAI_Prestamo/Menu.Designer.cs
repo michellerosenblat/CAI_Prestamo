@@ -136,6 +136,7 @@
             this.btnSimular.TabIndex = 9;
             this.btnSimular.Text = "Simular";
             this.btnSimular.UseVisualStyleBackColor = true;
+            this.btnSimular.Click += new System.EventHandler(this.btnSimular_Click);
             // 
             // label4
             // 

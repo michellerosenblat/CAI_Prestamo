@@ -11,3 +11,16 @@ C:\Users\Michu\source\repos\CAI_Prestamo.Forms\CAI_Prestamo.Negocio\obj\Debug\CA
 C:\Users\Michu\source\repos\CAI_Prestamo.Forms\CAI_Prestamo.Negocio\obj\Debug\CAI_Prestamo.Negocio.csproj.CopyComplete
 C:\Users\Michu\source\repos\CAI_Prestamo.Forms\CAI_Prestamo.Negocio\obj\Debug\CAI_Prestamo.Negocio.dll
 C:\Users\Michu\source\repos\CAI_Prestamo.Forms\CAI_Prestamo.Negocio\obj\Debug\CAI_Prestamo.Negocio.pdb
+C:\Users\Michu\Documents\GitHub\CAI_Prestamo\CAI_Prestamo.Forms\CAI_Prestamo.Negocio\bin\Debug\CAI_Prestamo.Negocio.dll
+C:\Users\Michu\Documents\GitHub\CAI_Prestamo\CAI_Prestamo.Forms\CAI_Prestamo.Negocio\bin\Debug\CAI_Prestamo.Negocio.pdb
+C:\Users\Michu\Documents\GitHub\CAI_Prestamo\CAI_Prestamo.Forms\CAI_Prestamo.Negocio\bin\Debug\CAI_Prestamo.Datos.dll
+C:\Users\Michu\Documents\GitHub\CAI_Prestamo\CAI_Prestamo.Forms\CAI_Prestamo.Negocio\bin\Debug\CAI_Prestamo.Entidades.dll
+C:\Users\Michu\Documents\GitHub\CAI_Prestamo\CAI_Prestamo.Forms\CAI_Prestamo.Negocio\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Michu\Documents\GitHub\CAI_Prestamo\CAI_Prestamo.Forms\CAI_Prestamo.Negocio\bin\Debug\CAI_Prestamo.Datos.pdb
+C:\Users\Michu\Documents\GitHub\CAI_Prestamo\CAI_Prestamo.Forms\CAI_Prestamo.Negocio\bin\Debug\CAI_Prestamo.Entidades.pdb
+C:\Users\Michu\Documents\GitHub\CAI_Prestamo\CAI_Prestamo.Forms\CAI_Prestamo.Negocio\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Michu\Documents\GitHub\CAI_Prestamo\CAI_Prestamo.Forms\CAI_Prestamo.Negocio\obj\Debug\CAI_Prestamo.Negocio.csprojAssemblyReference.cache
+C:\Users\Michu\Documents\GitHub\CAI_Prestamo\CAI_Prestamo.Forms\CAI_Prestamo.Negocio\obj\Debug\CAI_Prestamo.Negocio.csproj.CoreCompileInputs.cache
+C:\Users\Michu\Documents\GitHub\CAI_Prestamo\CAI_Prestamo.Forms\CAI_Prestamo.Negocio\obj\Debug\CAI_Prestamo.Negocio.csproj.CopyComplete
+C:\Users\Michu\Documents\GitHub\CAI_Prestamo\CAI_Prestamo.Forms\CAI_Prestamo.Negocio\obj\Debug\CAI_Prestamo.Negocio.dll
+C:\Users\Michu\Documents\GitHub\CAI_Prestamo\CAI_Prestamo.Forms\CAI_Prestamo.Negocio\obj\Debug\CAI_Prestamo.Negocio.pdb

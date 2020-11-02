@@ -15,6 +15,12 @@ namespace CAI_Prestamo.Entidades
         private double monto;
         private string usuario;
 
+        public Prestamo (TipoPrestamo tipoPrestamo, double monto, int plazo)
+        {
+            this.tipoPrestamo = tipoPrestamo;
+            this.monto = monto;
+            this.plazo = plazo;
+        }
         public TipoPrestamo TipoPrest
         {
             get

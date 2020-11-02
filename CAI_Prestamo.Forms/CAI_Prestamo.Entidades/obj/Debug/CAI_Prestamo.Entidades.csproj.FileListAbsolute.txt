@@ -4,3 +4,9 @@ C:\Users\Michu\source\repos\CAI_Prestamo.Forms\CAI_Prestamo.Entidades\obj\Debug\
 C:\Users\Michu\source\repos\CAI_Prestamo.Forms\CAI_Prestamo.Entidades\obj\Debug\CAI_Prestamo.Entidades.csproj.CoreCompileInputs.cache
 C:\Users\Michu\source\repos\CAI_Prestamo.Forms\CAI_Prestamo.Entidades\obj\Debug\CAI_Prestamo.Entidades.dll
 C:\Users\Michu\source\repos\CAI_Prestamo.Forms\CAI_Prestamo.Entidades\obj\Debug\CAI_Prestamo.Entidades.pdb
+C:\Users\Michu\Documents\GitHub\CAI_Prestamo\CAI_Prestamo.Forms\CAI_Prestamo.Entidades\bin\Debug\CAI_Prestamo.Entidades.dll
+C:\Users\Michu\Documents\GitHub\CAI_Prestamo\CAI_Prestamo.Forms\CAI_Prestamo.Entidades\bin\Debug\CAI_Prestamo.Entidades.pdb
+C:\Users\Michu\Documents\GitHub\CAI_Prestamo\CAI_Prestamo.Forms\CAI_Prestamo.Entidades\obj\Debug\CAI_Prestamo.Entidades.csprojAssemblyReference.cache
+C:\Users\Michu\Documents\GitHub\CAI_Prestamo\CAI_Prestamo.Forms\CAI_Prestamo.Entidades\obj\Debug\CAI_Prestamo.Entidades.csproj.CoreCompileInputs.cache
+C:\Users\Michu\Documents\GitHub\CAI_Prestamo\CAI_Prestamo.Forms\CAI_Prestamo.Entidades\obj\Debug\CAI_Prestamo.Entidades.dll
+C:\Users\Michu\Documents\GitHub\CAI_Prestamo\CAI_Prestamo.Forms\CAI_Prestamo.Entidades\obj\Debug\CAI_Prestamo.Entidades.pdb
